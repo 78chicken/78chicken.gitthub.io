@@ -1,6 +1,6 @@
 ---
 title: "Grass Docker 掛機教學：分享頻寬，參與 Solana AI 網路賺取 GRASS 代幣空投"
-date: 2026-06-17
+date: 2026-07-03
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, Grass, Solana, AI 資料]
 description: "Grass 是一個基於 Solana 區塊鏈的去中心化 AI 數據網絡。本教學提供完整的 Docker 掛機部署指令與步驟，教你如何安全分享閒置頻寬，輕鬆累積 Grass Points，把握未來 GRASS 代幣空投的被動收入機會。"
@@ -11,8 +11,9 @@ lang: zh-TW
 
 ![Grass 封面圖](/assets/images/bot/grass/banner.webp)
 > 📢 **【更新通知】**  
-> 更新版本,記得VNC重新登入
- 
+> 07.03 可以查空頭獲利了,也體會到死忠會員被背叛的感覺...  
+![img_01.webp](/assets/images/bot/grass/img_01.webp)  
+> 更新版本,記得VNC重新登入 
 
 Grass 是一個透過分享你閒置的計算資源來賺取報酬的服務，適合用來部署在家中的閒置裝置，賺取被動收入。
 
