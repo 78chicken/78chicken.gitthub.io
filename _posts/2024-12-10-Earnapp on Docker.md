@@ -1,6 +1,6 @@
 ---
 title: "EarnApp Docker 掛機教學：全自動分享頻寬賺取美金被動收入"
-date: 2026-04-20
+date: 2026-09-03
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, Paypal, 被動收入, 頻寬分享, EarnApp, 閒置頻寬]
 description: "EarnApp 是最穩定的閒置頻寬分享平台之一。本教學提供 EarnApp 完整的 Docker 掛機部署指令，教你如何設置 UUID、全自動賺取美金被動收入，並詳細說明 PayPal 提現流程與收益評估，輕鬆利用伺服器或樹莓派賺錢。"
@@ -11,8 +11,10 @@ lang: zh-TW
 
 ![EarnApp 封面圖](/assets/images/bot/earnapp/banner.webp)
 > 📢 **【更新通知】**
-> 04.20 LINUX(Docker)版本看起來真的死光了,考慮改用WIN安裝版
-> 10.7 已換回docker.io/madereddy/earnapp:latest最新版
+> 09.03 Linux(Docker)復活了,普天同慶(使用方式不變,如果還沒刪除的朋友直接給他執行下去).  
+> 登入官網可以看到要點選新的最終用戶授權協定,有沒有點選不確定會不會影響,就點吧  
+![EarnApp 封面圖](/assets/images/bot/earnapp/agree.webp)
+
 
 **EarnApp** 是一個被動收入平台，只需安裝後背景執行，就能透過分享你的閒置頻寬來賺取收益。適合長時間開機的設備（如樹莓派、伺服器等），**完全自動化掛機**，**不影響網速、不需額外操作**。
 
