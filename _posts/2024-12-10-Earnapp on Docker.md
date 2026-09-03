@@ -10,7 +10,7 @@ lang: zh-TW
 ---
 
 ![EarnApp 封面圖](/assets/images/bot/earnapp/banner.webp)
-> 📢 **【更新通知】**
+> 📢 **【更新通知】**  
 > 09.03 Linux(Docker)復活了,普天同慶(使用方式不變,如果還沒刪除的朋友直接給他執行下去).  
 > 登入官網可以看到要點選新的最終用戶授權協定,有沒有點選不確定會不會影響,就點吧  
 ![EarnApp 封面圖](/assets/images/bot/earnapp/agree.webp)
