@@ -22,7 +22,7 @@ lang: zh-TW
 
 ## 📝 註冊帳號
 
-👉 [立即註冊 EarnApp](https://earnapp.com/i/cxyYAjPT)
+👉 [立即註冊 EarnApp](https://earnapp.com/i/YyFvNMRU)
 
 🎉 使用機掰雞的邀請連結註冊，你會成為我的下線，**我將獲得你收入的 10% 作為飼料費**，但**不會影響你的收益**！
 
@@ -63,7 +63,9 @@ echo -n sdk-node- && head -c 1024 /dev/urandom | md5sum | tr -d ' -'
 docker run -d --restart always -m 64M \
 --name EarnApp \
 -e EARNAPP_UUID=你的Token \
-docker.io/madereddy/earnapp:latest
+docker.io/madereddy/earnapp:latest  
+
+也可以使用docker.io/trakkdev/earnapp:latest,這套也不錯
 ```
 最後記得註冊你的機器,這樣才能綁定帳號跟營利的機器
 先登入你的帳號,然後綁定你的SDK-NODE
